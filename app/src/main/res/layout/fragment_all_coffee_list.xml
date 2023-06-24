@@ -14,7 +14,7 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_margin="30dp"
         android:id="@+id/fab"
         android:src="@drawable/cart"
@@ -24,10 +24,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:text="1"
         android:textSize="20sp"
-        android:layout_margin="30dp"
+        android:layout_margin="20dp"
         android:id="@+id/quantityNum"/>
 
 </RelativeLayout>
