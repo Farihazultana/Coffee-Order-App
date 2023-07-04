@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834055214209",
+    "project_id": "coffee-station-aadab",
+    "storage_bucket": "coffee-station-aadab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834055214209:android:4f4de7ea1ee668819f2980",
+        "android_client_info": {
+          "package_name": "com.fariha.coffestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834055214209-i722s1jg06e4udsjfr11u01g1qigdihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PxpA_vq9aQAkIHjm7W_cDh5hIo7M98M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834055214209-i722s1jg06e4udsjfr11u01g1qigdihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
